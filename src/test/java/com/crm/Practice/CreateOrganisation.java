@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 	public void OrganizationTest() throws Throwable {
 		
-		//RAGHURD33
+		//RAGHU33
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
